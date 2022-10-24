@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+img {
+    background-color: yellow;
+}
+
+img:hover {
+    background-color : grey;
+}
+
+/* Class Selector */
+.bacon {
+    background-color: red;
+}
+
+.broccoli {
+    background-color: green;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/* Id Selector */
+
+#heading {
+    color: blue;
+    background-color: red;
+}
+
+/* #big {
+    font-size: 1000px;
+} */
+
+/*
+    Id --> Can use only one Id in one tag
+    Class --> Can use many class in one tag
+
+*/
